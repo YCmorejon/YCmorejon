@@ -17,25 +17,25 @@ Soy un Desarrollador Python especializado en automatización, análisis y visual
 
 ### 🚀 Proyectos Destacados
 
-#### 🤖 [Bot de Telegram para Automatización](https://github.com/tu_usuario/repo-bot-telegram)
+#### 🤖 [Bot de Telegram para Automatización](https://github.com/YCmorejon/Primeros-Desarrollos/WebGuide)
 _Bot multifuncional con integración de APIs externas y gestión de tareas automatizadas_
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Telegram API](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 
-#### 🌍 [Mapa Sísmico en Tiempo Real](https://github.com/tu_usuario/repo-mapa-terremotos)
+#### 🌍 [Mapa Sísmico en Tiempo Real](https://github.com/YCmorejon/Primeros-Desarrollos/Mapa_Terremoto)
 _Visualización interactiva de terremotos actualizados usando datos sismológicos oficiales_
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=flat)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-1.0.0-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-#### 👁️ [Sistema de Detección de Movimiento](https://github.com/tu_usuario/repo-deteccion-movimiento)
+#### 👁️ [Sistema de Detección de Movimiento](https://github.com/YCmorejon/Primeros-Desarrollos/Procesamiento de imagenes y videos)
 _Monitoreo inteligente con registro temporal en CSV y alertas visuales_
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
 
-### 🧠 [Retos de Lógica y Algoritmos](https://github.com/tu_usuario/repo-logica-programacion)
+### 🧠 [Retos de Lógica y Algoritmos](https://github.com//Resolviendo-Problemas/Problemas)
 _Compilado de soluciones a problemas de programación competitiva y desafíos algorítmicos_
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
