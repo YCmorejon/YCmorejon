@@ -25,8 +25,7 @@ _Bot multifuncional con integración de APIs externas y gestión de tareas autom
 
 #### 🌍 [Mapa Sísmico en Tiempo Real](https://github.com/YCmorejon/primeros-desarrollos/tree/main/Mapa_Terremoto)
 _Visualización interactiva de terremotos actualizados usando datos sismológicos oficiales_
-![Folium](https://img.shields.io/badge/Folium-77B829?style=flat)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-1.0.0-blue)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 #### 👁️ [Sistema de Detección de Movimiento](https://github.com/YCmorejon/primeros-desarrollos/blob/main/procesamiento-imagenes-videos/webcam.py)
