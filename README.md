@@ -13,8 +13,8 @@ Soy un Desarrollador Python especializado en automatización, análisis y visual
 
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Requests](https://img.shields.io/badge/requests-003366?style=for-the-badge)  
-
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Requests]
+(https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ### 🚀 Proyectos Destacados
