@@ -18,10 +18,13 @@ Soy un Desarrollador Python especializado en automatización, análisis y visual
 
 ### 🚀 Proyectos Destacados
 
-#### 🤖 [Bot de Telegram para Automatización](https://github.com/YCmorejon/primeros-desarrollos/tree/main/WebGuide)
-_Bot multifuncional con integración de APIs externas y gestión de tareas automatizadas_
+#### 🤖 [WebGuide - Asistente Educativo de Web 3.0](https://github.com/YCmorejon/primeros-desarrollos/tree/main/WebGuide)
+_Bot de Telegram especializado en educación sobre tecnologías descentralizadas, con seguimiento de criptomonedas y sistema de aprendizaje interactivo_
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Telegram API](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_API-2CA5E0?style=flat&logo=telegram&logoColor=white)
+![CoinGecko](https://img.shields.io/badge/CoinGecko_API-4C8CBF?style=flat&logo=coingecko&logoColor=white)
+![Asyncio](https://img.shields.io/badge/Asyncio-37BEDF?style=flat&logo=python&logoColor=white)
 
 #### 🌍 [Mapa Sísmico en Tiempo Real](https://github.com/YCmorejon/primeros-desarrollos/tree/main/Mapa_Terremoto)
 _Visualización interactiva de terremotos actualizados usando datos sismológicos oficiales_
