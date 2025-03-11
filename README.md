@@ -41,7 +41,7 @@ _Monitoreo inteligente con registro temporal en CSV y alertas visuales_
 
 ---
 
-### 🧠 [Retos de Lógica y Algoritmos](https://github.com/YCmorejon/resolviendo-problemas/tree/main/Problemas)
+### 🧠 [Retos de Lógica y Algoritmos](https://github.com/YCmorejon/resolviendo-problemas/tree/main)
 _Compilado de soluciones a problemas de programación competitiva y desafíos algorítmicos_
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
