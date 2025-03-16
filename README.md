@@ -36,6 +36,7 @@ _Plataforma de monitoreo sísmico global con actualizaciones cada 15 minutos usa
 
 #### 👁️ [Sistema de Detección de Movimiento](https://github.com/YCmorejon/primeros-desarrollos/blob/main/procesamiento-imagenes-videos)
 _Monitoreo inteligente con registro temporal en CSV y alertas visuales_
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
