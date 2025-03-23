@@ -15,7 +15,6 @@ Soy un Desarrollador Python especializado en automatización, análisis y visual
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
-
 ### 🚀 Proyectos Destacados
 
 #### 🤖 [WebGuide - Asistente Educativo de Web 3.0](https://github.com/YCmorejon/primeros-desarrollos/tree/main/WebGuide)
@@ -33,6 +32,15 @@ _Plataforma de monitoreo sísmico global con actualizaciones cada 15 minutos usa
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![USGS_API](https://img.shields.io/badge/USGS_API-2.5.1-important?style=for-the-badge&logo=json&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🏘️ [Analizador Inmobiliario Automatizado](https://github.com/YCmorejon/primeros-desarrollos/tree/main/web-scraping)
+_Sistema de scraping avanzado para análisis de mercado, procesando 100+ propiedades diarias con exportación a CSV_
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/Beautiful_Soup-4.12.2-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2.31.0-important?style=flat&logo=python&logoColor=white)
+![Automatización](https://img.shields.io/badge/Automatización-Data_Analysis-8A2BE2?style=flat)
 
 #### 👁️ [Sistema de Detección de Movimiento](https://github.com/YCmorejon/primeros-desarrollos/blob/main/procesamiento-imagenes-videos)
 _Monitoreo inteligente con registro temporal en CSV y alertas visuales_
