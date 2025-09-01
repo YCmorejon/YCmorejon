@@ -1,58 +1,71 @@
-### Hola 👋, Mi Nombre es Yan Carlos
-#### Desarrollador en Python 
+# 👋 Hola, soy Yan Carlos  
+### 🚀 Desarrollador Python especializado en **Web Scraping, Automatización y Análisis de Datos**
 
-Soy un Desarrollador Python especializado en automatización, análisis y visualización de datos. Mi pasión es transformar ideas y desafíos en soluciones digitales eficientes, optimizando procesos y generando valor a partir de la información. Siempre en búsqueda de nuevos retos y oportunidades para innovar.
-
----
-
-**Lenguajes y Tecnologías:** 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Librerías y Herramientas:**  
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/Beautiful_Soup-3a7ab4?style=for-the-badge&logo=beautifulsoup&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-### 🚀 Proyectos Destacados
-
-#### 🤖 [WebGuide - Asistente Educativo de Web 3.0](https://github.com/YCmorejon/primeros-desarrollos/tree/main/WebGuide)
-_Bot de Telegram especializado en educación sobre tecnologías descentralizadas, con seguimiento de criptomonedas y sistema de aprendizaje interactivo_
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_API-2CA5E0?style=flat&logo=telegram&logoColor=white)
-![CoinGecko](https://img.shields.io/badge/CoinGecko_API-4C8CBF?style=flat&logo=coingecko&logoColor=white)
-![Asyncio](https://img.shields.io/badge/Asyncio-37BEDF?style=flat&logo=python&logoColor=white)
-
-#### 🌍 [Sismógrafo Digital - Mapa de Actividad Tectónica en Tiempo Real](https://github.com/YCmorejon/primeros-desarrollos/tree/main/Mapa_Terremoto)
-_Plataforma de monitoreo sísmico global con actualizaciones cada 15 minutos usando datos oficiales del USGS_
-
-![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABhUlEQVQ4T6VTQU7CUBS9rxVaKlti4gYwJm6AJboA3QAbcAOyARagG2ADbMAF6AZYgBtwA6KJgSgx/AAt0ELb8d5XKEUGJsY3mTf/3XfPOfe+J/yx0T/nyQGqquZardYdgD0iCgC4rutXURQ9/1ZBBpBl+SCKojaAPQB5InIAvDDzZbPZfPoVQJblYwA3xpgrZn4gorIsy0O/1+uPRqO0EaBerx8Q0QOAPWZ+rtVqZ0mSfABwXfeBiA5ns9mF7/vPmwC7RLQURZGyLFOW5VgUxV4YhkkN0HU9B+Cm0+lcj8fjD9/3HwVBuJYk6TIi4hSAQkQlMxdE5ABwVwBBEC4AXFYqlS4R5Y1G4zrP8z4zBwC2q9XqQ5qmJ0TUrtfrD3EcXwHYqlQqj2VZ9gF0mDkF4Hie9yYIwlWr1brNsuwEwI6iKKMkSfYAqKqqvuZ5fg5gF8AbM3eZOVsBPM97FQTh1nGcITOfEtGWqqrjKIp2Aaiqqk6yLDsDsA3gnZm7zJyvAEEQvImieO+67pCZT4hI0TRtGobhDwBN06Z5np8C2ALwwcynzFysAPV6/YCI7mVZ7hFRoWnadRAE7w2l0jRNm+d5fgJAA/C5BCzL6gG4A6ASUQrAYeaLer3+tAI0m81RkiTHAFQAX8zcY+ZsBVBV9Z6IjpYtWZblkZkHnue9rwCapk3KsjwGoAD4YuYeM2crgK7rQyLqEJEMIGLmXq1We1oBdF0fElGbiGQAETP3FUX5AVgsFhNFUXoAagBiZu4rijL5BvgGThwTZ5Z1wbsAAAAASUVORK5CYII=)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![USGS_API](https://img.shields.io/badge/USGS_API-2.5.1-important?style=for-the-badge&logo=json&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-
-#### 🏘️ [Analizador Inmobiliario Automatizado](https://github.com/YCmorejon/primeros-desarrollos/tree/main/web-scraping)
-_Sistema de scraping avanzado para análisis de mercado, procesando 100+ propiedades diarias con exportación a CSV_
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat&logo=python&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/Beautiful_Soup-4.12.2-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-2.31.0-important?style=flat&logo=python&logoColor=white)
-![Automatización](https://img.shields.io/badge/Automatización-Data_Analysis-8A2BE2?style=flat)
-
-#### 👁️ [Sistema de Detección de Movimiento](https://github.com/YCmorejon/primeros-desarrollos/blob/main/procesamiento-imagenes-videos)
-_Monitoreo inteligente con registro temporal en CSV y alertas visuales_
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+Me dedico a **convertir sitios web en datasets accionables** y a crear soluciones digitales que optimizan procesos, ahorran tiempo y generan valor.  
+Mi enfoque es construir herramientas **claras, escalables y confiables** para empresas, startups y profesionales que necesitan tomar decisiones basadas en datos.  
 
 ---
 
-### 🧠 [Retos de Lógica y Algoritmos](https://github.com/YCmorejon/resolviendo-problemas/tree/main)
-_Compilado de soluciones a problemas de programación competitiva y desafíos algorítmicos_
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+## 🛠️ Stack & Tecnologías
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YCmorejon)
+**Lenguajes:**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
+**Librerías & Herramientas:**  
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)  
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Selectolax](https://img.shields.io/badge/Selectolax-0F172A?style=for-the-badge&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![BeautifulSoup](https://img.shields.io/badge/Beautiful_Soup-3a7ab4?style=for-the-badge&logo=python&logoColor=white)  
+![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 
+---
 
+## 📌 Proyectos Destacados
+
+### 🤖 [WebGuide - Asistente Educativo de Web 3.0](https://github.com/YCmorejon/primeros-desarrollos/tree/main/WebGuide)  
+Bot de Telegram educativo con seguimiento de criptomonedas y sistema de aprendizaje interactivo.  
+
+**Stack:** Python · Telegram API · CoinGecko API · Asyncio
+
+---
+
+### 🌍 [Sismógrafo Digital - Mapa de Actividad Tectónica en Tiempo Real](https://github.com/YCmorejon/primeros-desarrollos/tree/main/Mapa_Terremoto)  
+Mapa interactivo global con datos en vivo del **USGS** actualizados cada 15 minutos.  
+
+**Stack:** Python · Folium · Pandas · USGS API
+
+---
+
+### 🏘️ [Analizador Inmobiliario Automatizado](https://github.com/YCmorejon/primeros-desarrollos/tree/main/web-scraping)  
+Scraper avanzado para análisis de mercado, procesando **100+ propiedades diarias** con exportación a CSV.  
+
+**Stack:** Python · Requests · BeautifulSoup · Pandas
+
+---
+
+### 👁️ [Sistema de Detección de Movimiento](https://github.com/YCmorejon/primeros-desarrollos/blob/main/procesamiento-imagenes-videos)  
+Monitoreo inteligente con registro temporal en CSV y alertas visuales.  
+
+**Stack:** Python · OpenCV · Pandas
+
+---
+
+### 🧠 [Retos de Lógica y Algoritmos](https://github.com/YCmorejon/resolviendo-problemas/tree/main)  
+Compilado de soluciones a problemas de programación competitiva y desafíos algorítmicos.  
+
+---
+
+## 📫 Contacto
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/tu_numero)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tu_usuario)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YCmorejon)
+
+---
+
+✨ Siempre abierto a colaborar en proyectos de **Web Scraping, Automatización y Análisis de Datos**.  
